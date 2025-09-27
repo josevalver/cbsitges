@@ -6,8 +6,6 @@ share: true
 # Opción A
 [Flex-A.mp4](../img/Flex-A.mp4)
 
-https://github.com/josevalver/cbsitges/raw/refs/heads/main/img/Flex-A.mp4
-
 # Opción B
 [Flex-B.mp4](../img/Flex-B.mp4)
 # Opción C
