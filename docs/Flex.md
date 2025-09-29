@@ -1,7 +1,8 @@
 ---
 share: true
 ---
-![./img/Flex.svg]
+![Flex](/cbsitges/docs/img/Flex.svg)
+
 # Videos
 ## Opción A
 <video width="600" controls>
@@ -13,7 +14,7 @@ share: true
   <source src="/cbsitges/docs/img/Flex-B.mp4" type="video/mp4">
 </video>
 
-# Opción C
+## Opción C
 <video width="600" controls>
   <source src="/cbsitges/docs/img/Flex-A.mp4" type="video/mp4">
 </video>
