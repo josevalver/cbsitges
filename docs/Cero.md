@@ -3,12 +3,19 @@ share: true
 ---
 
 ![Cero.svg](./img/Cero.svg)
+
 # Videos
 ## Opcion A
-![Cero-B.mp4](./img/Cero-B.mp4)
+<video width="600" controls>
+  <source src="/cbsitges/docs/img/Cero-A.mp4" type="video/mp4">
+</video>
 
 ## Opcion B
-![Cero-A.mp4](./img/Cero-A.mp4)
+<video width="600" controls>
+  <source src="/cbsitges/docs/img/Cero-B.mp4" type="video/mp4">
+</video>
 
 ## Opcion C
-![Cero-C.mp4](./img/Cero-C.mp4)
+<video width="600" controls>
+  <source src="/cbsitges/docs/img/Cero-C.mp4" type="video/mp4">
+</video>

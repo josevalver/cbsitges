@@ -7,9 +7,14 @@ share: true
 
 # Videos
 ## Opción A
-![Banda-1A.mp4](./img/Banda-1A.mp4)
+<video width="600" controls>
+  <source src="/cbsitges/docs/img/Banda-A.mp4" type="video/mp4">
+</video>
+
 ## Opción B
-![Banda-1B.mp4](./img/Banda-1B.mp4)
+<video width="600" controls>
+  <source src="/cbsitges/docs/img/Banda-B.mp4" type="video/mp4">
+</video>
 
 
 
