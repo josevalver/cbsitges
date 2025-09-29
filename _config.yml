@@ -1,14 +1,5 @@
-  title: CB Sitges Sots-20
-  description:
-  url: "https://josevalver.github.io/cbsitges/"
-  theme: millidocs-dark
-
-  markdown: kramdown
-  kramdown:
-    syntax_highlighter_opts:
-      disable : true
-
-  exclude:
-    - Gemfile
-    - Gemfile.lock
-    - README.md
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark # or auto if you want it to switch with your system settings.

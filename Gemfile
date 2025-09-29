@@ -1,1 +1,0 @@
-gem "millidocs-dark"
