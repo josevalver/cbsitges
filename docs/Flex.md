@@ -4,7 +4,7 @@ share: true
 ![Flex.svg](img/Flex.svg)
 
 # Opción A
-[Flex-A.mp4](img/Flex-A.mp4)
+[Flex-A.mp4](/cbsitges/docs/img/Flex-A.mp4)
 
 # Opción B
 ![Flex-B.mp4](img/Flex-B.mp4)
