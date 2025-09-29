@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-![[./img/Flex.svg]]
+![./img/Flex.svg]
 # Videos
 ## Opción A
 <video width="600" controls>
