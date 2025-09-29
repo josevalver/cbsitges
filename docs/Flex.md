@@ -1,18 +1,13 @@
 ---
 share: true
 ---
-![Flex.svg](img/Flex.svg)
+![[./img/Flex.svg|Flex.svg]]
 
-# Opción A
-<video width="600" controls>
-  <source src="/cbsitges/docs/img/Flex-A.mp4" type="video/mp4">
-</video>
+# Videos
+## Opción A
+![[./img/Flex-A.mp4|Flex-A.mp4]]
 
-# Opción B
-<video width="600" controls>
-  <source src="/cbsitges/docs/img/Flex-B.mp4" type="video/mp4">
-</video>
-# Opción C
-<video width="600" controls>
-  <source src="/cbsitges/docs/img/Flex-A.mp4" type="video/mp4">
-</video>
+## Opción B
+![[./img/Flex-B.mp4|Flex-B.mp4]]
+## Opción C
+![[./img/Flex-C.mp4|Flex-C.mp4]]
